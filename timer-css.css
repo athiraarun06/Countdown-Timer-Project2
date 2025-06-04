@@ -1,0 +1,64 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f8ff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.timer-inputs {
+    margin: 20px 0;
+}
+
+input[type="datetime-local"] {
+    padding: 10px;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin: 10px 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.timer-box {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px auto;
+    width: 300px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.timer-time {
+    font-size: 1.5rem;
+    margin: 10px 0;
+    color: #222;
+}
+
+.timer-controls button {
+    margin: 5px;
+    background-color: #28a745;
+}
+
+.timer-controls button.delete {
+    background-color: #dc3545;
+}
+
+.timer-controls button:hover {
+    opacity: 0.9;
+}
