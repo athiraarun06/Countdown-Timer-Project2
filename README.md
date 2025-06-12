@@ -32,11 +32,6 @@ countdown-timer/
  -HTML
  -CSS
  -JAVASCRIPT
-# Future Improvements
-  -Add sound alerts when timer ends
-  -Dark mode toggle
-  -Mobile responsiveness
-  -Save timers using local storage
 
 # Author
 ATHIRA ARUN
