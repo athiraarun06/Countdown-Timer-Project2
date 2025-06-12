@@ -41,3 +41,6 @@ countdown-timer/
 # Author
 ATHIRA ARUN
 
+# Output Window
+![Image](https://github.com/user-attachments/assets/d2f323e0-1c18-4960-a5f1-2fcf4868a0bf)
+
